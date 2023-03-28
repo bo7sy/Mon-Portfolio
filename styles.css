@@ -252,9 +252,10 @@ body {
 
 .image img {
   position: absolute;
-  top: -65px;
-  left: 55%;
+  top: 10px;
+  left: 53%;
   transform: translateX(-50%);
+  height: 500px;
   min-width: 350px;
   object-fit: cover;
 }

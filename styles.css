@@ -15,7 +15,7 @@
 
 body {
   background: var(--color-3);
-  color: var(--color-1);
+  /* color: var(--color-1); */
 }
 .header {
   position: fixed;
@@ -75,6 +75,7 @@ body {
   opacity: 0;
   animation: slideRight 1s ease forwards;
   animation-delay: 0.7s;
+  color: #b85042;
 }
 .accueil-content h3 {
   font-size: 32px;
@@ -82,7 +83,7 @@ body {
   opacity: 0;
   animation: slideLeft 1s ease forwards;
   animation-delay: 1s;
-  /* color: var(--color-1); */
+  color: var(--color-2);
 }
 .accueil-content p {
   font-size: 16px;
@@ -90,6 +91,7 @@ body {
   opacity: 0;
   animation: slideLeft 1s ease forwards;
   animation-delay: 1.3s;
+  color: var(--color-1);
 }
 
 .btn {

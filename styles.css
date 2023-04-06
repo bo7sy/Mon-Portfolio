@@ -262,7 +262,7 @@ body {
 .image img {
   position: absolute;
   top: 10px;
-  left: 53%;
+  left: 54%;
   transform: translateX(-50%);
   height: 500px;
   min-width: 350px;
